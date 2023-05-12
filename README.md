@@ -211,6 +211,6 @@ Reports are generated and confirmation message is displayed.
 
 * * * 
 
-This program was created as part of a capstone project with the Hyperion Dev Software Engineering bootcamp, so the concept is theirs. The orginal code was created by them. This included the intial creation of admin user, initial sample task, and a template main menu with no functionality. All functionality was then created by myself.
+This program was created as part of a capstone project with the Hyperion Dev Software Engineering bootcamp following a series of tasks to complete. The task was presented with a basic file with some code including: the intial creation of admin user, initial sample task, and a template main menu with no functionality. All functionality was then created by myself, following the criteria set in the project requirements.
 
 
