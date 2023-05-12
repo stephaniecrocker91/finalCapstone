@@ -1,5 +1,5 @@
 # FINAL CAPSTONE : Task Management Program 
-========================================
+
 ## Table of Contents:
 
 * About the Program
