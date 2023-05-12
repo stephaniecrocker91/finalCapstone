@@ -1,5 +1,5 @@
 # FINAL CAPSTONE : Task Management Program 
-==================================
+========================================
 
 * * *
 
@@ -101,6 +101,21 @@ If the username is already taken (already exists in our user.txt file) or the pa
 <img width="368" alt="Screenshot 2023-05-12 at 11 15 39" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/855ad53d-f471-4707-9051-3c31ad597c96">
 
 4. Once the input is correct, the new user details are written and saved in our user.txt file.
+
+#### Adding a task
+
+1. When inputting "a" the user is selecting Add a new task.
+2. The program requests the user assigned to task, task name, task description and task due date.
+
+ <img width="368" alt="Screenshot 2023-05-12 at 11 20 24" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/489b27c0-077d-443d-b46d-8711b7ca5b33">
+ 
+3. The writes and saves these details the task.txt file.
+
+It automatically generate and saved the following details: assigned_date (by assigning the date.today()) and completed (boolean value with a default of False)
+
+Appropriate error messages will be displayed if: task is assigned to a non-existant user, or the date is input in the wrong format. In this case, the program will request task details again.
+
+<img width="368" alt="Screenshot 2023-05-12 at 11 26 57" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/915e1d39-5919-4b9f-bf53-701a38c20b8b">
 
 
 * * * 
