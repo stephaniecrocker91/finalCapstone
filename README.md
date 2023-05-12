@@ -181,5 +181,12 @@ Reports are generated and confirmation message is displayed.
 
 <img width="581" alt="Screenshot 2023-05-12 at 11 52 17" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/de50b23b-e34e-4d7e-b78d-d7ca5da44247">
 
+#### Display Statistics - ds
+1. When inputting "ds" the user is selecting Display Statistics. These are the generated reports (as in menu selection "gr")
+2. If these reports have not been generated yet (for example: this is the first time you run the program locally), the program will generate the reports first.
+3. The program reads files user_overview.txt and task_overview.txt and displays it on our console.
+
+<img width="581" alt="Screenshot 2023-05-12 at 11 55 57" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/7c738468-8bb8-4af2-909b-3a65ba87bc91">
 
 * * * 
+
