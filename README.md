@@ -90,7 +90,7 @@ If the entry is invalid, appropriate error message is displayed, and the menu op
 
 ### MENU OPTIONS:
 
-#### Registering a user
+#### Registering a user - r
 1. When inputting "r" the user is selecting Register a new User.
 2. The program requests the username, password, and confirm password.
 
@@ -102,7 +102,7 @@ If the username is already taken (already exists in our user.txt file) or the pa
 
 4. Once the input is correct, the new user details are written and saved in our user.txt file.
 
-#### Adding a task
+#### Adding a task - a
 
 1. When inputting "a" the user is selecting Add a new task.
 2. The program requests the user assigned to task, task name, task description and task due date.
@@ -116,6 +116,53 @@ It automatically generate and saved the following details: assigned_date (by ass
 Appropriate error messages will be displayed if: task is assigned to a non-existant user, or the date is input in the wrong format. In this case, the program will request task details again.
 
 <img width="368" alt="Screenshot 2023-05-12 at 11 26 57" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/915e1d39-5919-4b9f-bf53-701a38c20b8b">
+
+#### View all tasks - va
+1. When inputting "va" the user is selecting View all Tasks.
+
+<img width="368" alt="Screenshot 2023-05-12 at 11 30 12" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/e623b2e5-04f1-482f-9112-626068b6b444">
+
+2. The tasks are read from the task.txt file and displayed in the format above.
+
+#### View my tasks - vm
+1. When inputting "vm" the user is selecting View my Tasks.
+
+<img width="441" alt="Screenshot 2023-05-12 at 11 33 10" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/f6cc0afe-43db-4c11-8778-987c15c05580">
+
+2. The tasks are read and filtered from the task.txt file and displayed in the format above.
+
+#### View my tasks - vm
+1. When inputting "vm" the user is selecting View my Tasks.
+
+<img width="441" alt="Screenshot 2023-05-12 at 11 33 10" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/f6cc0afe-43db-4c11-8778-987c15c05580">
+
+2. The tasks are read and filtered from the task.txt file and displayed in the format above.
+
+3. Message displayed below requesting user input: go back to menu (-1) or select a task to edit/mark as completed (task number)
+
+If input number is invalid, appropriate error message is displayed and input request is made again.
+
+<img width="441" alt="Screenshot 2023-05-12 at 11 37 19" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/4d671cd9-b594-46ee-8568-660826d40ad7">
+
+4. Once user inputs task number, the program requests user to select: edit task, mark as completed or go back to menu
+
+<img width="441" alt="Screenshot 2023-05-12 at 11 37 48" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/fcbca1f5-7db0-4183-90fc-10e352c08df6">
+
+If user requests to edit a completed task, or mark as completed a completed task, or enters an invalid input => appropriate error message is displayed, and input request is repeated.
+
+<img width="441" alt="Screenshot 2023-05-12 at 11 40 20" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/9f13c072-2fb7-4b7b-ba8f-6aa318c2b4fd">
+
+##### Complete task - c
+5. If user selects to complete task (c), the value for completed is changed to True, and these details are written and saved to the task.txt file
+
+##### Edit task - e
+6. If user selects to edit task (e), the following options are displayed:
+
+<img width="441" alt="Screenshot 2023-05-12 at 11 42 31" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/ce0390bb-a794-4372-afee-d8b0623c2c9a">
+
+7. User can select to edit the username assigned to task or the due date. Upon selection, the new value of user/due date are saved to the task.txt
+
+Appropriate error messages appear if the user does not exist, the date format is incorrect, or the input is invalid.
 
 
 * * * 
