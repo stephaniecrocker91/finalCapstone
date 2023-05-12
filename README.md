@@ -68,16 +68,24 @@ cd repository
 
 1. Run the program. 
 2. The console will display and request a username & password. 
+
 <img width="502" alt="Screenshot 2023-05-12 at 11 01 23" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/9d09c2c5-f200-43c3-a6ab-007feb46bd31">
+
 -  These details are stored in the user.txt file generated when running the program. When the program is run for the first time, the admin user and password is created: admin; password
+
 <img width="362" alt="Screenshot 2023-05-12 at 11 05 49" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/27abdd11-3053-4a05-9d72-e5eb2bcecd86">
+
 - If username does not exist or password does not match, appropriate error message will appear and the console will request details again. See example below: 
+
 <img width="368" alt="Screenshot 2023-05-12 at 11 08 23" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/3d760d07-3e33-4ab5-b9d6-344888fedf3e">
 
 3. Once user is logged in, the main menu is displayed.
+
 <img width="368" alt="Screenshot 2023-05-12 at 11 10 19" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/dc16be43-37cd-4eb8-943e-d363f0dcb320">
+
 Program requests a user input from the options above. 
 If the entry is invalid, appropriate error message is displayed, and the menu options are presented once again.
+
 <img width="368" alt="Screenshot 2023-05-12 at 11 12 05" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/5feec1ba-a530-47ae-83f1-16c507ba70eb">
 
 ### MENU OPTIONS:
@@ -85,9 +93,13 @@ If the entry is invalid, appropriate error message is displayed, and the menu op
 #### Registering a user
 1. When inputting "r" the user is selecting Register a new User.
 2. The program requests the username, password, and confirm password.
-3. <img width="368" alt="Screenshot 2023-05-12 at 11 14 11" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/549923ec-b18b-4b60-9c5e-7a371f976dec">
+
+<img width="368" alt="Screenshot 2023-05-12 at 11 14 11" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/549923ec-b18b-4b60-9c5e-7a371f976dec">
+
 If the username is already taken (already exists in our user.txt file) or the passwords do not match, an appropriate error message is displayed and the program requests the new username details again.
+
 <img width="368" alt="Screenshot 2023-05-12 at 11 15 39" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/855ad53d-f471-4707-9051-3c31ad597c96">
+
 4. Once the input is correct, the new user details are written and saved in our user.txt file.
 
 
