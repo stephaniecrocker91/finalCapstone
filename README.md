@@ -195,6 +195,11 @@ Reports are generated and confirmation message is displayed.
 
 <img width="581" alt="Screenshot 2023-05-12 at 11 55 57" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/7c738468-8bb8-4af2-909b-3a65ba87bc91">
 4. Once displayed, program returns to main menu.
+
+#### Exit program - e
+1. When inputting "e" the user is selecting Exit Program. Confirmation message is displayed, and program ends.
+
+
 <img width="581" alt="Screenshot 2023-05-12 at 11 57 13" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/1bbd72ad-33dc-48fd-b05e-42b177476f57">
 
 * * * 
