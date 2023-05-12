@@ -164,5 +164,22 @@ If user requests to edit a completed task, or mark as completed a completed task
 
 Appropriate error messages appear if the user does not exist, the date format is incorrect, or the input is invalid.
 
+#### Generate reports - gr
+1. When inputting "gr" the user is selecting Generate Reports.
+
+<img width="441" alt="Screenshot 2023-05-12 at 11 47 23" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/193ca4f6-2857-4c4a-a3b6-956912bdca56">
+
+Reports are generated and confirmation message is displayed.
+
+2. The program reads data from user.txt file and task.txt file, performs calculations with this data, and writes them into a user_overview.txt and task_overview.txt
+
+##### task_overview.txt file
+
+<img width="466" alt="Screenshot 2023-05-12 at 11 49 26" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/d1329fa3-f1d3-42c4-b935-95cc628af6c5">
+
+##### user_overview.txt file
+
+<img width="581" alt="Screenshot 2023-05-12 at 11 52 17" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/de50b23b-e34e-4d7e-b78d-d7ca5da44247">
+
 
 * * * 
