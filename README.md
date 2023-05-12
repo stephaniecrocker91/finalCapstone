@@ -1,5 +1,12 @@
 # FINAL CAPSTONE : Task Management Program 
 ========================================
+## Table of Contents:
+
+* About the Program
+* Installing the Program: Cloning and installing the project locally
+* Languages
+* How to use the Program: step by step instructions
+* Credits
 
 * * *
 
@@ -12,15 +19,10 @@ This _Task Management Program_ program is a software application that allows use
 
 
 
-## INSTALLATION: Cloning and installing the project locally
+## INSTALLING THE PROGRAM: Cloning and installing the project locally
 ----------------
 
 * * *
-
-*   Investors.
-*   Home loan owners.
-*   Loan and investor enthusiasts.
-*   Ages 18+ 
 
 
 1. Open your web browser and go to the GitHub repository page of the project you want to clone.
@@ -61,7 +63,7 @@ cd repository
 
 * * * 
 
-## USING THE PROGRAM: Step by step guide on how to use the program
+## HOW TO USE THE TASK MANAGEMENT PROGRAM: Step by step instructions
 ----------------
 
 * * *
@@ -203,4 +205,12 @@ Reports are generated and confirmation message is displayed.
 <img width="581" alt="Screenshot 2023-05-12 at 11 57 13" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/1bbd72ad-33dc-48fd-b05e-42b177476f57">
 
 * * * 
+
+## CREDITS:
+------------------
+
+* * * 
+
+This program was created as part of a capstone project with the Hyperion Dev Software Engineering bootcamp, so the concept is theirs. The orginal code was created by them. This included the intial creation of admin user, initial sample task, and a template main menu with no functionality. All functionality was then created by myself.
+
 
