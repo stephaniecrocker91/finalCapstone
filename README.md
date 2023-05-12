@@ -117,12 +117,15 @@ Appropriate error messages will be displayed if: task is assigned to a non-exist
 
 <img width="368" alt="Screenshot 2023-05-12 at 11 26 57" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/915e1d39-5919-4b9f-bf53-701a38c20b8b">
 
+4.Once finialised, program returns to main menu.
+
 #### View all tasks - va
 1. When inputting "va" the user is selecting View all Tasks.
 
 <img width="368" alt="Screenshot 2023-05-12 at 11 30 12" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/e623b2e5-04f1-482f-9112-626068b6b444">
 
 2. The tasks are read from the task.txt file and displayed in the format above.
+3. Once displayed, program returns to main menu.
 
 #### View my tasks - vm
 1. When inputting "vm" the user is selecting View my Tasks.
@@ -164,6 +167,8 @@ If user requests to edit a completed task, or mark as completed a completed task
 
 Appropriate error messages appear if the user does not exist, the date format is incorrect, or the input is invalid.
 
+8. Once completed, program returns to main menu.
+
 #### Generate reports - gr
 1. When inputting "gr" the user is selecting Generate Reports.
 
@@ -181,12 +186,16 @@ Reports are generated and confirmation message is displayed.
 
 <img width="581" alt="Screenshot 2023-05-12 at 11 52 17" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/de50b23b-e34e-4d7e-b78d-d7ca5da44247">
 
+3. Once finished, the program returns to main menu.
+
 #### Display Statistics - ds
 1. When inputting "ds" the user is selecting Display Statistics. These are the generated reports (as in menu selection "gr")
 2. If these reports have not been generated yet (for example: this is the first time you run the program locally), the program will generate the reports first.
 3. The program reads files user_overview.txt and task_overview.txt and displays it on our console.
 
 <img width="581" alt="Screenshot 2023-05-12 at 11 55 57" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/7c738468-8bb8-4af2-909b-3a65ba87bc91">
+4. Once displayed, program returns to main menu.
+<img width="581" alt="Screenshot 2023-05-12 at 11 57 13" src="https://github.com/stephaniecrocker91/finalCapstone/assets/90976092/1bbd72ad-33dc-48fd-b05e-42b177476f57">
 
 * * * 
 
